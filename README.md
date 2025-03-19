@@ -136,10 +136,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## Future Enhancements
-- **Improve aspect extraction** with deep learning.
-- **Support multiple languages** for sentiment analysis.
-- **Add more visualizations** like pie charts and word clouds.
 
 Turn reviews into your competitive edge. Understand your customers better, improve their experience, and watch your business grow. Contact us to see how our Review Analysis Solution can transform your feedback into actionable strategies! 🚀
 
